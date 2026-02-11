@@ -50,5 +50,6 @@ semPaths(
   intercepts = FALSE, thresholds = FALSE, residuals = FALSE,
   edge.label.cex = 1.1, label.cex = 1.2, edge.label.position = 0.7,
   mar = c(3,0.8,3,1),
-  weighted = FALSE, edge.color = "black"
+  weighted = FALSE, edge.color = "black",
+  rotation= 2
 )
